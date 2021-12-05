@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @amm272
-- 👀 I’m interested in deep learning, computer vision and data science
-- 🌱 I’m currently learning causal inference
-- 💞️ I’m looking to collaborate on machine learning research
+- 👀 I’m interested in machine learning
 - 📫 You can contact me on LinkedIn
 
 <!---

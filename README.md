@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @amm272
+- 👋 Hi, my name ia Ana-Maria
 - 👀 I’m interested in machine learning
-- 📫 You can contact me on LinkedIn
 
 <!---
 amm272/amm272 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

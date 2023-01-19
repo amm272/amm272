@@ -1,4 +1,4 @@
-👋 Hi, my name ia Ana-Maria
+👋 Hi, my name is Ana-Maria!
 I am interested in machine learning, software engineering, and solving hard problems.
 Self-driving is one of them, hence I am excited to work on it at Wayve Technologies.
 
